@@ -1,0 +1,8 @@
+title: Macaca0625.GitHub.io
+description: eason
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-minimal
+
+gems:
+  - jekyll-mentions
